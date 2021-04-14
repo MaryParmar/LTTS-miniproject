@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+ --- Grocery Store Management- This application is built using C language and grocery store can use it for adding, editing, searching, deleting and can also display the items/goods.
 
 ## Research
 ![Description](Link to Pic)
