@@ -43,9 +43,35 @@ Delete Goods
 
 Exit
    
-## SWOT ANALYSIS
+# SWOT ANALYSIS
 
-## 
+## Strengths
+
+User Friendly Website
+
+Good Customer Service
+
+Flexibilty
+
+## Weakness
+
+Lack of personal contact
+
+High operational expenses
+
+## Oppurtunities
+
+Easiness in modification of data
+
+No or very few Paperwork
+
+## Threats
+
+Lost of Information
+
+Security Issues
+
+Lack of Integrated Resouces
 
 # 4W&#39;s and 1&#39;H
 
