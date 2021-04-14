@@ -38,13 +38,25 @@ From Main menu, they can select edit, add, display, search, delete or calculate 
 # Detail requirements
 ## High Level Requirements:
 --- TBD in Tabular Format 
--- M_1 | Description | Implemented
 
--- M_2 | User choice | Implemented
+-- H_1 | Description | Implemented
 
--- M_3 | Repository Checking Condition | Implemented
+-- H_2 | User choice | Implemented
+
+-- H_3 | Repository Checking Condition | Implemented
+
+-- H_4 | No Memory Leaks | Implemented
 
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+-- L_1 | Description | Implemented
+
+-- L_2 | Menu of supported Operations | Implemented
+
+-- L_3 | Function Network | Implemented
+
+-- L_4 | Test Cases | Implemented
+
+-- L_5 | Implementation Testing | Implemented
