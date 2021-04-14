@@ -39,7 +39,9 @@ From Main menu, they can select edit, add, display, search, delete or calculate 
 ## High Level Requirements:
 --- TBD in Tabular Format 
 -- M_1 | Description | Implemented
+
 -- M_2 | User choice | Implemented
+
 -- M_3 | Repository Checking Condition | Implemented
 
 
