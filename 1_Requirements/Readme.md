@@ -11,7 +11,7 @@ Fast
 Trustworthy
 
 ## Features
-Free Account
+>Free Account
 Easy to add and delete the goods
 Search the goods
 Calculate the bill
