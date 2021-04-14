@@ -5,16 +5,24 @@
 ## Research
 This is used for adding, editing, searching, deleting and can also display the items/goods.The data is store in the file so it can be accessed anytime.The data also includes the rate, product name etc.
 
-## Benifits:-
-Easy in calculating the bill.
+## Benifits
+
+Easy in calculating the bill
+
 Fast
+
 Trustworthy
 
 ## Features
->Free Account
+
+Free Account
+
 Easy to add and delete the goods
+
 Search the goods
+
 Calculate the bill
+
 Know any goods rate or product name
 
 ## Defining Our System
