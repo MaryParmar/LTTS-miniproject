@@ -17,28 +17,30 @@
 
 ## Who:
 
-Any coustomer od seller can use this application.
+The Universal Product Code (UPC) was adopted by the grocery industry. 
 
 ## What:
 
-**TBD**
+This helped drive down costs for inventory management for the customers as well as shopkeepers.
 
 ## When:
 
-**TBD**
+In April 1973 as the standard barcode for all grocers it was starting to be used though it was not introduced at retailing locations until 1974.
 
 ## Where:
 
-**TBD**
+Any grocery shop, the customer can use this.
 
 ## How:
 
-**TBD**
+From Main menu, they can select edit, add, display, search, delete or calculate the bill and then enter the code of the item.
 
 # Detail requirements
 ## High Level Requirements:
 --- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+-- M_1 | Description | Implemented
+-- M_2 | User choice | Implemented
+-- M_3 | Repository Checking Condition | Implemented
 
 
 ##  Low level Requirements:
