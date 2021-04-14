@@ -17,7 +17,7 @@
 
 ## Who:
 
-**TBD**
+Any coustomer od seller can use this application.
 
 ## What:
 
